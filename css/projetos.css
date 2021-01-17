@@ -1,0 +1,128 @@
+
+#projetos {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#linha {
+    display: block;
+    text-align: center;
+}
+
+.div-do-link {
+    position: relative;
+    display: inline-block;
+    width: 45%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.git-link {
+    display: block;
+    height: 400px;
+    background-color: #393e46;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    width: 100%;
+    text-decoration: none;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.git-link:hover {
+    border: 2px solid #00adb5;
+    border-radius: 5px;
+    background-color: #2d3131;
+}
+
+/*Conteúdo das caixas*/
+
+.title-da-div {
+    color: #eeeeee;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.subtitle {
+    text-align: justify;
+    color: #eeeeee;
+    font-family: Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 5px;
+}
+
+.lista-um {
+    position: absolute;
+    color: #eeeeee;
+    display: block;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -5%);
+    list-style: none;
+}
+
+.elemento-l1 {
+    display: inline-block;
+    padding: 3px;
+}
+
+/*Imagens dos projetos*/
+
+.project-pic-one {
+    margin-top: 1px;
+    content: "";
+    background-image: url("../assets/code_1.png");
+    background-size: cover;
+    overflow: hidden;
+    height: 200px;
+    width: 98%;
+    background-position-y: center;
+    
+    border: 1px solid #00adb5;
+    margin-left: 5px;
+}
+
+.project-pic-two {
+    margin-top: 1px;
+    content: "";
+    background-image: url("../assets/code_2.png");
+    background-size: cover;
+    overflow: hidden;
+    height: 200px;
+    width: 98%;
+
+    border: 1px solid #00adb5;
+    margin-left: 5px;
+}
+
+.project-pic-three {
+    margin-top: 1px;
+    content: "";
+    background-image: url("../assets/webpage\ screenshot.png");
+    background-size: cover;
+    overflow: hidden;
+    height: 200px;
+    width: 98%;
+
+    border: 1px solid #00adb5;
+    margin-left: 5px;
+}
+
+.project-pic-four {
+    margin-top: 1px;
+    content: "";
+    background-image: url("");
+    background-size: cover;
+    overflow: hidden;
+    height: 200px;
+    width: 98%;
+
+    border: 1px solid #00adb5;
+    margin-left: 5px;
+}

@@ -1,0 +1,28 @@
+
+#sobre-mim {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.container-dois {
+    display: block;
+    border: 1px solid #00adb5;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#texto {
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 19px;
+    font-family: Helvetica, Arial, sans-serif;
+}

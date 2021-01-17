@@ -1,0 +1,44 @@
+
+#contato {
+    position: relative;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(128, 128, 128, 0.1);
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.container-tres {
+    display: block;
+    text-align: center;
+    border: 1px solid #00adb5;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.link {
+    display: inline-flex;
+    width: 50px;
+    height: 50px;
+    background-color: #393e46;
+    color: #eeeeee;
+    margin: 0 3px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 30px;
+    box-sizing: border-box;
+
+}
+
+.link:hover {
+    background-color: #00adb5;
+    border: 3px solid #eeeeee;
+    border-radius: 50%;
+}
