@@ -104,7 +104,7 @@
 .project-pic-three {
     margin-top: 1px;
     content: "";
-    background-image: url("../assets/webpage\ screenshot.png");
+    background-image: url("../assets/webpage_screenshot.png");
     background-size: cover;
     overflow: hidden;
     height: 200px;
@@ -117,7 +117,7 @@
 .project-pic-four {
     margin-top: 1px;
     content: "";
-    background-image: url("../assets/webpage\ screenshot\ 2.png");
+    background-image: url("../assets/webpage_screenshot_2.png");
     background-size: cover;
     overflow: hidden;
     height: 200px;
